@@ -1,0 +1,15 @@
+.date-input {
+    outline: none;
+    padding: 1rem;
+    font-size: 2rem;
+    margin-top: 2rem;
+    border-radius: 14px;
+    border: 2px solid teal;
+    margin-left: 3rem;
+}
+
+.date-display {
+    margin-top: 2rem;
+    font-weight: bold;
+    font-size: 2rem;
+}
